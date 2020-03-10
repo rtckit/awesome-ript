@@ -17,7 +17,6 @@
   - [Single User Endpoints](https://tools.ietf.org/html/draft-rosenberg-dispatch-ript-inbound-00) - RIPT specification for single user applications.
   - [RIPT vs SIP](https://tools.ietf.org/html/draft-rosenberg-dispatch-ript-sipdiffs-00) - Comparison against Session Initiaton Protocol (SIP).
   - [WebRTC Compatibility](https://tools.ietf.org/html/draft-rosenberg-dispatch-ript-webrtc-00) - RIPT specification for WebRTC endpoints.
-
 - [GitHub Repository](https://github.com/WhatIETF/draft-rosenbergjennings-dispatch-ripp) - Source controlled RIPT specification repository.
 - [Patent Tracker](https://datatracker.ietf.org/ipr/3643/) - RIPT (pending) patent tracker.
 
