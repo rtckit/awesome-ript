@@ -36,7 +36,7 @@
 - [ClueCon 2019](https://youtu.be/AdiWFfbwjF0?t=7470) - Jonathan Rosenberg introducing RIPT, then called RIPP, during a ClueCon '19 presentation.
 - [Nov 6 2019 ClueCon Weekly](https://youtu.be/S46QBk4rOUo) - Jonathan Rosenberg discussing RIPT, amongst other telecommunications topics.
 - [IETF 106 Slides](https://datatracker.ietf.org/meeting/106/materials/slides-106-dispatch-ripp-01) - Cullen Jennings's RIPT presentation slides from IETF 106, 2019 Singapore.
-- [G. Vacca Notes] - RIPT summary by Giacomo Vacca.
+- [G. Vacca Notes](https://www.slideshare.net/GiacomoVacca/ripp-notes) - RIPT summary by Giacomo Vacca.
 
 ## Other
 
