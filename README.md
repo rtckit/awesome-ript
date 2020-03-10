@@ -11,7 +11,7 @@
 
 ## Literature
 
-- [IEFT Draft](https://tools.ietf.org/html/draft-rosenbergjennings-dispatch-ripp-03) - Current RFC Realtime Internet Peering Protocol specification draft.
+- [IETF Draft](https://tools.ietf.org/html/draft-rosenbergjennings-dispatch-ripp-03) - Current RFC Realtime Internet Peering Protocol specification draft.
 - [GitHub Repository](https://github.com/WhatIETF/draft-rosenbergjennings-dispatch-ripp) - Source controlled RIPP specification repository.
 - [Patent Tracker](https://datatracker.ietf.org/ipr/3643/) - RIPP (pending) patent tracker.
 
@@ -19,7 +19,7 @@
 
 - [ClueCon 2019](https://youtu.be/AdiWFfbwjF0?t=7470) - Jonathan Rosenberg introducing RIPP during a ClueCon 2019 presentation.
 - [Nov 6 2019 ClueCon Weekly](https://youtu.be/S46QBk4rOUo) - Jonathan Rosenberg discussing RIPP, amongst other Real Time Communications topics.
-
+- [IETF 106 Slides](https://datatracker.ietf.org/meeting/106/materials/slides-106-dispatch-ripp-01) - Cullen Jennings's RIPP presentation slides from IETF 106, 2019 Singapore.
 
 ## Contribute
 
