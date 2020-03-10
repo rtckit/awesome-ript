@@ -28,7 +28,7 @@
 
 ## Implementations
 
-- [goRIPT](https://github.com/WhatIETF/goRIPT/watchers) - Implementation of RIPT in golang.
+- [goRIPT](https://github.com/WhatIETF/goRIPT) - Implementation of RIPT in golang.
 
 
 ## Talks
