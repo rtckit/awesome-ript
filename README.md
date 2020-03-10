@@ -13,6 +13,7 @@
 
 - [IEFT Draft](https://tools.ietf.org/html/draft-rosenbergjennings-dispatch-ripp-03) - Current RFC Realtime Internet Peering Protocol specification draft.
 - [GitHub Repository](https://github.com/WhatIETF/draft-rosenbergjennings-dispatch-ripp) - Source controlled RIPP specification repository.
+- [Patent Tracker](https://datatracker.ietf.org/ipr/3643/) - RIPP (pending) patent tracker.
 
 ## Talks
 
